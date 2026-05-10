@@ -1,0 +1,25 @@
+"hub_name","zone","delivery_status","total_deliveries","total_overrides","avg_overrides_per_delivery","avg_route_km","avg_cost"
+"North Exchange","North","OnTime",55,92,1.67,15.92,13.03
+"Midtown Relay","Central","OnTime",51,91,1.78,13.15,11.78
+"East Dock","East","OnTime",44,72,1.64,13.47,13.05
+"Riverside Hub","Riverside","OnTime",38,67,1.76,15.84,13.51
+"West Gate","West","OnTime",41,65,1.59,14.12,13.51
+"Central Core","Central","OnTime",41,64,1.56,15.59,13.5
+"South Link","South","OnTime",37,59,1.59,15.97,13.63
+"Airport Hub","Airport","OnTime",34,57,1.68,14.3,13.21
+"Riverside Hub","Riverside","Delayed",16,39,2.44,16.73,14.56
+"West Gate","West","Delayed",18,30,1.67,19.12,15.36
+"Midtown Relay","Central","Failed",18,29,1.61,15,13.07
+"North Exchange","North","Delayed",17,29,1.71,15.04,12.87
+"South Link","South","Delayed",19,29,1.53,15.35,12.06
+"Airport Hub","Airport","Delayed",16,25,1.56,15.21,13.05
+"Central Core","Central","Failed",13,24,1.85,13.55,13.77
+"East Dock","East","Delayed",12,22,1.83,14.48,12.46
+"Midtown Relay","Central","Delayed",15,22,1.47,15.42,13.34
+"Central Core","Central","Delayed",11,21,1.91,15.03,12.81
+"North Exchange","North","Failed",11,19,1.73,12.33,12.45
+"West Gate","West","Failed",12,16,1.33,12.52,12.99
+"Riverside Hub","Riverside","Failed",9,15,1.67,11.44,11.85
+"Airport Hub","Airport","Failed",10,13,1.3,16.94,13.8
+"East Dock","East","Failed",7,12,1.71,13.73,13.49
+"South Link","South","Failed",6,9,1.5,9.68,11.86
