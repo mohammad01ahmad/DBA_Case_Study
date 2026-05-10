@@ -1,0 +1,3 @@
+"zone_match","total_deliveries","avg_failure_rate","avg_delay_rate","avg_overrides"
+"Out-of-Zone",812,13.94,20.06,0.9
+"In-Zone",138,10.3,22.91,1.19

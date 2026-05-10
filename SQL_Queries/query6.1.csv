@@ -1,0 +1,6 @@
+"customer_type","account_status","total_customers","avg_orders","avg_failures","avg_complaints","avg_rating","total_compensation"
+"Consumer","Active",17,2.88,2.29,2.24,3.73,2154.77
+"SME","Active",3,2.67,2.33,2.33,3.05,328.22
+"Enterprise","Active",1,3,2,2,3.74,306.06
+"Consumer","Dormant",3,2,2,1.67,3.43,303.46
+"Enterprise","Dormant",1,3,2,2,3.91,116.28

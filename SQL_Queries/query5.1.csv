@@ -1,0 +1,7 @@
+"severity","delivery_status","total_complaints","avg_resolution_days","avg_compensation","avg_rating"
+"Medium","Delayed",30,5.3,16.46,3.22
+"Medium","Failed",17,7,20.43,3.47
+"Medium","OnTime",86,6.51,17.13,4.31
+"High","Delayed",12,15.25,34.15,3.21
+"High","Failed",13,14.38,39.26,2.99
+"High","OnTime",28,12.36,39.13,4.32

@@ -1,0 +1,6 @@
+"service_type","total_deliveries","avg_order_value","avg_delivery_cost","avg_gross_margin","total_revenue","total_cost","total_gross_margin","failed_count","cost_on_failed_deliveries"
+"Medical",10,71.76,11.15,60.6,717.56,111.54,606.02,1,18.12
+"Retail",18,79.71,11.71,68,1434.84,210.75,1224.09,0,0
+"Parcel",17,82.1,11,71.1,1395.78,187.02,1208.76,0,0
+"Business",35,92.77,13.37,79.4,3246.81,467.8,2779.01,6,77.64
+"Passenger",105,93.44,12.65,80.79,9811.26,1328.58,8482.68,13,181.92

@@ -1,0 +1,5 @@
+"complaint_presence","incident_presence","total_failed_deliveries","avg_rating","avg_overrides","missing_proof_count"
+"Complaint Exists","No Incident Logged",76,3.06,1.13,20
+"No Complaint Logged","No Incident Logged",50,3.04,1.14,8
+"No Complaint Logged","Incident Exists",21,2.79,0.67,4
+"Complaint Exists","Incident Exists",20,3.1,0.75,1

@@ -1,0 +1,5 @@
+"priority_level","service_segments","total_deliveries","avg_order_value","avg_delivery_cost","avg_gross_margin","total_cost_wasted_on_failures"
+"Low",5,259,87.85,12.87,74.98,417.76
+"Critical",5,74,87.24,11.36,75.88,43.99
+"Medium",5,386,93.99,13.28,80.71,864.45
+"High",5,231,93.82,12.65,81.17,409.33

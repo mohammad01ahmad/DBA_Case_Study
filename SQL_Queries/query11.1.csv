@@ -1,0 +1,13 @@
+"vehicle_type","maintenance_status","total_incidents","avg_resolution_hours","total_open","total_escalated","unresolved_rate_pct"
+"CargoVan","InRepair",19,14.4,7,4,57.89
+"CargoVan","Scheduled",8,11.8,3,1,50
+"Diesel","InRepair",25,12.3,6,6,48
+"EV","Active",61,12.03,19,7,42.62
+"CargoVan","Active",40,12.05,15,2,42.5
+"Hybrid","Active",30,10.82,7,5,40
+"Hybrid","Scheduled",13,14.82,4,1,38.46
+"EV","InRepair",17,12.93,4,2,35.29
+"Diesel","Scheduled",3,9.17,1,0,33.33
+"EV","Scheduled",22,11.79,6,1,31.82
+"Diesel","Active",19,9.99,3,3,31.58
+"Hybrid","InRepair",23,10.67,2,3,21.74

@@ -1,0 +1,9 @@
+"event_type","total_events","unlinked_events","avg_latency_ms","max_latency_ms","total_failed_events","avg_failure_rate_pct"
+"chat_escalated",38,9,478.98,1402,19,49.58
+"payment_retry",69,16,456.01,1701,19,27.47
+"track_order",138,32,459.13,1660,0,0
+"search_route",99,20,441.82,1265,0,0
+"eta_refresh",105,22,463.96,1285,0,0
+"delivery_instruction_update",75,16,486.89,1285,0,0
+"chat_opened",88,21,472.87,1690,0,0
+"cancel_attempt",28,8,419.29,1039,0,0

@@ -1,0 +1,4 @@
+"customer_segment","customer_count","avg_rating","avg_incidents","total_compensation"
+"Complained but No Failure",170,4,0.55,11103.63
+"Failed + Complained",63,3.53,0.62,6425.68
+"Failed but No Complaint",64,3.24,0.67,0

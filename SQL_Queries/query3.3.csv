@@ -1,0 +1,8 @@
+"operating_zone","zone_match","total_deliveries","avg_failure_rate","avg_overrides"
+"Central","Out-of-Zone",243,21.64,1
+"West","Out-of-Zone",127,13.63,0.88
+"Airport","Out-of-Zone",104,13.26,0.91
+"Riverside","Out-of-Zone",115,12.95,1.06
+"North","Out-of-Zone",136,12.3,0.97
+"South","Out-of-Zone",106,11.47,0.92
+"East","Out-of-Zone",119,8.72,0.82

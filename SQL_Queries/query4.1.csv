@@ -1,0 +1,4 @@
+"failure_category","customer_count","avg_complaints","avg_rating","total_compensation"
+"1 Failure",97,0.39,3.32,2225.82
+"2 Failures",22,1.64,3.78,2857.98
+"3+ Failures",8,2.25,3.02,1341.88

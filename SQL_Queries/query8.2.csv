@@ -1,0 +1,8 @@
+"pickup_zone","total_deliveries","revenue_per_delivery","avg_cost_per_delivery","margin_per_delivery","compensation_per_delivery","net_margin_per_delivery","failed_deliveries"
+"Central",216,87.51,12.26,75.26,11.94,63.32,37
+"Riverside",145,87.67,12.37,75.3,10.28,65.02,22
+"North",171,88.34,11.78,76.56,11.25,65.32,28
+"East",187,90.96,12.38,78.57,11.96,66.61,25
+"South",164,95.92,12.52,83.4,10.33,73.07,16
+"Airport",139,103.34,16.86,86.48,10.44,76.03,15
+"West",135,100.84,12.02,88.82,10.68,78.14,18

@@ -1,0 +1,11 @@
+"base_zone","operating_zone","total_deliveries","failure_rate_pct","delay_rate_pct","avg_overrides"
+"Airport","West",13,30.77,7.69,1.08
+"West","Central",26,30.77,15.38,0.92
+"West","Riverside",13,30.77,7.69,0.77
+"Riverside","Central",23,26.09,17.39,1.04
+"West","South",12,25,16.67,0.75
+"Riverside","South",9,22.22,0,0.11
+"South","Central",45,22.22,17.78,0.91
+"East","Central",23,21.74,8.7,0.87
+"North","Airport",19,21.05,15.79,0.89
+"Airport","Central",24,20.83,25,0.92
